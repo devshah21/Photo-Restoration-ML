@@ -23,6 +23,17 @@ source venv/bin/activate
 
 # Activate the virtual environment (Windows)
 venv\Scripts\activate
+```
 
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 
+### Usage
+To start the Flask web application, simply run the following command:
+
+```bash
+python main.py
+```
 
